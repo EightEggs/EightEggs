@@ -1,5 +1,9 @@
 # Eight_Eggs's GitHub World
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eighteggs.visitor-badge)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eighteggs)](https://github.com/LordDashMe/github-contribution-stats/)
+
 - 👋 Hi, I’m @EightEggs, a college student of HUST...
 - 👀 I'm learning to use GitHub... and being ready to explore something interesting...
 - 🌱 Languages... English/Chinese/Japanese/C/C++/JavaScript/Python/Shell/MySQL...
