@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eighteggs.visitor-badge)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eighteggs)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eighteggs)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @EightEggs, a college student of HUST...
 - 👀 I'm learning to use GitHub... and being ready to explore something interesting...
