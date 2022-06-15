@@ -2,7 +2,8 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eighteggs.visitor-badge)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eighteggs)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?bg_color=0000&title_color=4C71F1&text_color=8A919F&line_height=24&border_color=8884&username=eighteggs&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bg_color=0000&title_color=4C71F1&text_color=8A919F&card_width=240&border_color=8884&username=eighteggs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @EightEggs, a college student of HUST...
 - 👀 I'm learning to use GitHub... and being ready to explore something interesting...
