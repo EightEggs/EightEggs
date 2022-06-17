@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=32&width=800&color=FFC2F9E5&duration=6666&lines=❤️Sparkle+It+with+Stardust❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=32&width=800&color=FFC2F9E5&duration=6666&lines=❤️Per+Aspera+Ad+Astra❤️)](https://git.io/typing-svg)
 -----
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eighteggs.visitor-badge) ![last commit](https://custom-icon-badges.herokuapp.com/github/last-commit/EightEggs/EightEggs)
 
